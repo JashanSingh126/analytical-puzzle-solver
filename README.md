@@ -1,4 +1,6 @@
-# Getting Started with Create React App
+# How to get Analytical Puzzle Solver Started
+About
+A full-stack web application for solving sudoku and riddle puzzles in an entertaining manner
 
 This project was bootstrapped with [Create React App](https://github.com/facebook/create-react-app).
 
